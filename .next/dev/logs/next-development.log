@@ -1,0 +1,63 @@
+[00:00:01.820] Server  LOG     ✓ Ready in 1604ms
+[00:00:08.241] Server  ERROR   ⨯ ./Documents/learn-AI/my_projects/meetAI/app/page.tsx:1:1
+Module not found: Can't resolve '@/components/ui/button'
+> 1 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Home() {
+  4 |   return (
+
+Import map: aliased to relative './components/ui/button' inside of [project]/Documents/learn-AI/my_projects/meetAI
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:08.804] Browser ERROR   uncaughtError: Error: ./Documents/learn-AI/my_projects/meetAI/app/page.tsx:1:1
+Module not found: Can't resolve '@/components/ui/button'
+> 1 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Home() {
+  4 |   return (
+
+Import map: aliased to relative './components/ui/button' inside of [project]/Documents/learn-AI/my_projects/meetAI
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:08.981] Browser ERROR   ./Documents/learn-AI/my_projects/meetAI/app/page.tsx:1:1
+Module not found: Can't resolve '@/components/ui/button'
+> 1 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Home() {
+  4 |   return (
+
+Import map: aliased to relative './components/ui/button' inside of [project]/Documents/learn-AI/my_projects/meetAI
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:08.981] Browser ERROR   ./Documents/learn-AI/my_projects/meetAI/app/page.tsx:1:1
+Module not found: Can't resolve '@/components/ui/button'
+> 1 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Home() {
+  4 |   return (
+
+Import map: aliased to relative './components/ui/button' inside of [project]/Documents/learn-AI/my_projects/meetAI
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:09.302] Browser ERROR   ./Documents/learn-AI/my_projects/meetAI/app/page.tsx:1:1
+Module not found: Can't resolve '@/components/ui/button'
+> 1 | import { Button } from "@/components/ui/button"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Home() {
+  4 |   return (
+
+Import map: aliased to relative './components/ui/button' inside of [project]/Documents/learn-AI/my_projects/meetAI
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:49.134] Server  LOG     ✓ Compiled in 45ms

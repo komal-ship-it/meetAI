@@ -1,0 +1,37 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/73518_next_dist_compiled_a6da83e8._.js",
+      "static/chunks/73518_next_dist_shared_lib_fd6e50d9._.js",
+      "static/chunks/73518_next_dist_client_a11c6cd9._.js",
+      "static/chunks/73518_next_dist_960f7e94._.js",
+      "static/chunks/73518_next_app_1e049b3f.js",
+      "static/chunks/[next]_entry_page-loader_ts_b7423400._.js",
+      "static/chunks/73518_react-dom_69cf65c7._.js",
+      "static/chunks/73518_2a0fde5d._.js",
+      "static/chunks/[root-of-the-server]__a6979a0a._.js",
+      "static/chunks/Documents_learn-AI_my_projects_meetAI_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Documents_learn-AI_my_projects_meetAI_pages__app_a3bc2cb2._.js"
+    ],
+    "/_error": [
+      "static/chunks/73518_next_dist_compiled_a6da83e8._.js",
+      "static/chunks/73518_next_dist_shared_lib_20520220._.js",
+      "static/chunks/73518_next_dist_client_a11c6cd9._.js",
+      "static/chunks/73518_next_dist_6cbbc893._.js",
+      "static/chunks/73518_next_error_eac683b3.js",
+      "static/chunks/[next]_entry_page-loader_ts_9a7bd3c5._.js",
+      "static/chunks/73518_react-dom_69cf65c7._.js",
+      "static/chunks/73518_2a0fde5d._.js",
+      "static/chunks/[root-of-the-server]__2665f942._.js",
+      "static/chunks/Documents_learn-AI_my_projects_meetAI_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-Documents_learn-AI_my_projects_meetAI_pages__error_2f06adf5._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": []
+}
